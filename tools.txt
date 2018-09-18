@@ -1,0 +1,2 @@
+- zenodo.org for doi
+- cff file format for citing
